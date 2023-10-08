@@ -18,4 +18,12 @@ function speedDetector(){
 
 }
 -initialize speedLimit and pointCount
--
+-write a conditional statement that checks if the speed is over the speed limit
+-create another function that keeps track of the demerit points: 
+function pointsDeducted(){
+
+}
+-write a do-while statement that counts and adds up the points while the speed is above the limit
+3. challenge-3
+- write a function for the Net salary calculator 
+

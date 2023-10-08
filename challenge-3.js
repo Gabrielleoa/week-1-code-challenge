@@ -6,3 +6,9 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 NB: Use KRA, NHIF, and NSSF values provided in the link below.*/
 
 
+function netSalaryCalculator(){ //function for calculating the net Salary
+    let netSalary; // initializes the net Salary
+    let basicSalary; //initializes the basic Salary
+    let benfits; // initializes the benefits
+ 
+}
