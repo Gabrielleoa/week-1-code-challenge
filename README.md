@@ -26,4 +26,9 @@ function pointsDeducted(){
 -write a do-while statement that counts and adds up the points while the speed is above the limit
 3. challenge-3
 - write a function for the Net salary calculator 
+- initialize the net Salary, basic, salary and the benefits
+-write a code that calculates the payee NHIF Deductions, NSSF Deductions, gross salary, and net salary
 
+#author and lisence
+author: Gabrielle Odhiambo
+Lisence: Apache License, Version 2.0
