@@ -1,5 +1,5 @@
 function calculateStudentGrade(){
-    let grade = prompt("Please enter your grade:"); //this prompts the user to enter the student's grade
+   const grade = prompt("What is the student's grade");
     if (grade >79 ){
         return 'A'; // this is a conditional 'if' statement that returns an 'A' if their grade is greater than 79
     }else if (grade > 60 && grade <= 79){

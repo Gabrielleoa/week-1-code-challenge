@@ -1,0 +1,25 @@
+{
+  "name": "week-1-code-challenge",
+  "version": "1.0.0",
+  "description": "1. Calculate the grades of students and their Letter Grade 2.",
+  "main": "challenge-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gabrielleoa/week-1-code-challenge.git"
+  },
+  "keywords": [],
+  "author": "Gabrielle Odhiambo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-preset-env": "1.7.0",
+    "chai": "4.1.2",
+    "jsdom": "9.2.1",
+    "mocha": "5.2.0",
+    "mocha-jsdom": "~1.1.0",
+    "mocha-multi": "1.0.1"
+  }
+}
