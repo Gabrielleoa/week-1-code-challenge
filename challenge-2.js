@@ -16,5 +16,5 @@ while
 }
 
 for (pointsDeducted;pointsDeducted>12;pointsDeducted++){ // a loop that counts how many points have been allocated to points Deducted and prints License suspended when the points are greater than 12
-return 'License Suspended';
+console.log('License Suspended');
 }

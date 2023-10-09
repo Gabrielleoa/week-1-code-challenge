@@ -27,8 +27,10 @@ function pointsDeducted(){
 3. challenge-3
 - write a function for the Net salary calculator 
 - initialize the net Salary, basic, salary and the benefits
--write a code that calculates the payee NHIF Deductions, NSSF Deductions, gross salary, and net salary
+-intialize the tax rate, gross salary and the benefits
+-write an equation that calculates the net salary after all deductions have been made
+- print the net salary that is calculated 
 
-#author and lisence
+#author and license
 author: Gabrielle Odhiambo
 Lisence: Apache License, Version 2.0

@@ -7,8 +7,11 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.*/
 
 
 function netSalaryCalculator(){ //function for calculating the net Salary
-    let netSalary; // initializes the net Salary
-    let basicSalary; //initializes the basic Salary
-    let benfits; // initializes the benefits
- 
+    let grossPay= 800000; // initializes the net Salary   //initializes the basic Salary
+    let benefits= 61400; // initializes the benefits
+    let rateOfTax = 0.325 // initializes the rate of tax
+    let tax = grossPay * rateOfTax; //calculates the rate of tax from the gross salary 
+    const netSalary = (grossPay - benefits - tax); //calculates what the salary will be after the tax and benefits deductions 
+ return netSalary
 }
+console.log(netSalaryCalculator())
